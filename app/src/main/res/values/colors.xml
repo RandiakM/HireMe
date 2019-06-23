@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#FF4500</color>
     <color name="colorAccent">#FF4081</color>
+
+    //Background Colors
+    <color name="colorDarkOrange">#FF8C00</color>
+    <color name="colorStatusBar">#FF4500</color>
+
+    //Text Colors
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
 </resources>
